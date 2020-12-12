@@ -39,7 +39,7 @@ class DiscordAlerter(Alerter):
                 {"title": kwargs.get("subject"), "description": content, "color": 5832569}
             ],
             "username": "Micro Hub Stock",
-            "avatar_url": "https://i.ibb.co/tmcPVb1/micro-hub-stock.png",
+            "avatar_url": "https://i.ibb.co/k6BkYW6/icon-final.png",
         }
         try:
             logging.debug(f"Discord Webhook URL: {self.webhook_url}")
