@@ -26,7 +26,7 @@ from hunter import hunt
 def parse_args():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('-c', '--config', type=argparse.FileType('r'), default='./config/newegg_rtx_3070.yaml', help='YAML config file for web scrapers')
+    parser.add_argument('-c', '--config', type=argparse.FileType('r'), default='/config.yaml', help='YAML config file for web scrapers')
     parser.add_argument('-a', '--alerter', required=True, help="Alert system to be used", default="email", dest="alerter_type")
     parser.add_argument('-q', '--alerter-config', type=argparse.FileType('r'), help='YAML config file for alerters (required if using multiple)')
     parser.add_argument('-v', '--verbose', action='store_true', help='enable verbose logging')
