@@ -3,7 +3,7 @@ param (
     [String] $Config = "",
     [String] $ChatId = "",
     [String] $Email = "",
-    [String] $Image = "Harkor421/stockbot:latest",
+    [String] $Image = "harkor421/stockbot:latest",
     [String] $Relay = "",
     [String] $Webhook = ""
 )
@@ -21,7 +21,7 @@ if ($Alerter -eq "email") {
     }
 }
 
-if ($Image -eq "Harkor421/stockbot:latest") {
+if ($Image -eq "harkor421/stockbot:latest") {
     docker pull $Image
 } else {
     $Result = docker images -q $Image
