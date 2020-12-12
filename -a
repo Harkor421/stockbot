@@ -1,0 +1,8 @@
+error: discord does not exist or is not a regular file
+
+usage for discord, slack, or telegram:
+  ./docker_run.bash -a DISCORD|SLACK|TELEGRAM -w WEBHOOK_URL [-d TELEGRAM_CHAT_ID] -c CONFIG
+
+usage for email:
+  ./docker_run.bash -c CONFIG -e EMAIL -r RELAY
+
