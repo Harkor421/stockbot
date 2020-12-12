@@ -17,7 +17,7 @@ usage() {
 [ $# -eq 0 ] && usage
 
 alerter="email"
-default_image="harkor421/stockbot:latest"
+default_image="harkor421/stockbot"
 image=$default_image
 should_rm=1
 
