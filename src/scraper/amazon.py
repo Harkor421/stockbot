@@ -17,7 +17,7 @@ class AmazonScrapeResult(ScrapeResult):
         tag = self.soup.body.select_one('div.a-section > span#price_inside_buybox')
         price_str = self.set_price(tag)
         if price_str:
-            alert_subject = f'Hay stock en {price_str}'
+            alert_subject = f'Hay stock en {price_str} @here'
 
         # check for add to cart button
         tag = self.soup.body.select_one('span.a-button-inner > span#submit\\.add-to-cart-announce')
