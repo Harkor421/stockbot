@@ -1,0 +1,6 @@
+---
+max_price: 450 # dollars/euros/etc
+refresh_interval: 2 # seconds
+urls:
+  - https://amzn.to/2LvZZoS
+...

@@ -2,5 +2,6 @@
 refresh_interval: 2 # seconds
 max_price: 750 # dollars
 urls:
-  - https://amzn.to/384IUKo
+  - https://amzn.to/3oSCDZ6
+  - https://amzn.to/3adGoUQ
 ...

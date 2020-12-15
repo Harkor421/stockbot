@@ -2,21 +2,21 @@
 refresh_interval: 2 # seconds
 max_price: 650 # dollars/euros/etc
 urls:
-  - https://www.amazon.com/dp/B08L8HPKR6
-  - https://www.amazon.com/dp/B08L8LG4M3
-  - https://www.amazon.com/dp/B08L8JNTXQ
-  - https://www.amazon.com/dp/B08L8KC1J7
-  - https://www.amazon.com/dp/B08L8L9TCZ
-  - https://www.amazon.com/dp/B08LW46GH2
-  - https://www.amazon.com/dp/B08L8L71SM
-  - https://www.amazon.com/dp/B08KY322TH
-  - https://www.amazon.com/dp/B08KXZV626
-  - https://www.amazon.com/dp/B08KY266MG
-  - https://www.amazon.com/dp/B08KWN2LZG
-  - https://www.amazon.com/dp/B08KWPDXJZ
-  - https://www.amazon.com/dp/B08KWLMZV4
-  - https://www.amazon.com/dp/B08HBF5L3K
-  - https://www.amazon.com/dp/B08HBJB7YD
-  - https://www.amazon.com/dp/B08LF32LJ6
-  - https://www.amazon.com/dp/B08LF1CWT2
+  - https://amzn.to/2IVECfY
+  - https://amzn.to/2IUzhpa
+  - https://amzn.to/37ldNuO
+  - https://amzn.to/3nm2fxf
+  - https://amzn.to/2Kn4At3
+  - https://amzn.to/34h9TRY
+  - https://amzn.to/3r00Ka8
+  - https://amzn.to/3adnZaF
+  - https://amzn.to/3oZHg3H
+  - https://amzn.to/2KqlMOk
+  - https://amzn.to/385ydHE
+  - https://amzn.to/3aaRs5f
+  - https://amzn.to/37jLRYf
+  - https://amzn.to/3nnYQOq
+  - https://amzn.to/2LAN6tL
+  - https://amzn.to/3qYXVGj
+  - https://amzn.to/3r2slr0
 ...
