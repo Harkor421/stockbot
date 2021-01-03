@@ -1,0 +1,7 @@
+---
+refresh_interval: 2 # seconds
+max_price: 300 # dollars
+urls:
+  - https://amzn.to/2KPbp7s
+  - https://www.bestbuy.com/site/microsoft-xbox-series-s-512-gb-all-digital-console-disc-free-gaming-white/6430277.p?acampID=0&cmp=RMX&intl=nosplash&irclickid=xEe3dRw2KxyLT2y05-R4sULoUkEyFcSXdzhXSc0&irgwc=1&loc=Narrativ&mpid=376373&ref=198&skuId=6430277
+...
